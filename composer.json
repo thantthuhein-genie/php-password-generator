@@ -1,0 +1,15 @@
+{
+    "name": "tth/php-password-generator",
+    "description": "PHP Password Generator",
+    "autoload": {
+        "psr-4": {
+            "Tth\\PhpPasswordGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thant Thu Hein",
+            "email": "thantthuhein@geniefintech.com"
+        }
+    ]
+}
